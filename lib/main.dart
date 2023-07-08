@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Montserrat',
         primarySwatch: Colors.blue,
       ),
-      home: OnBoardingScreen(),
+      home: LoginScreen(),
     );
   }
 }
